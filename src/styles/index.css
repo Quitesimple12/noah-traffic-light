@@ -10,3 +10,6 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.selected {
+    box-shadow: 0 0 20px 10px rgba(255, 0, 0, 0.5); /* Adds glow effect */
+  }
